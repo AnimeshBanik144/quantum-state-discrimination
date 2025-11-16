@@ -13,7 +13,7 @@ In particular, my interest lies in extending the standard models (like the Helst
 
 ## Related Work  
 For further exploration of generalized state discrimination applied to quantum key distribution (QKD), see my other repository:  
-[Generalized State Discrimination for Tunable Quantum-Key-Distribution — the φQKD Protocol](https://github.com/AnimeshBanik144/Generalized-State-Discrimination-for-Tunable-Quantum-Key-Distribution-The-phiQKD-Protocol)
+[The-phiQKD-Protocol)]([https://github.com/AnimeshBanik144/Generalized-State-Discrimination-for-Tunable-Quantum-Key-Distribution-The-phiQKD-Protocol](https://github.com/AnimeshBanik144/The-phiQKD-Protocol))
 
 ## What’s Inside  
 - `Helstrom_approach.ipynb` — A notebook implementing the minimum-error discrimination strategy between two pure states.  
