@@ -2,7 +2,7 @@
 Repository: quantum-state-discrimination
 
 ## Overview  
-This repository collects code notebooks and tools to study and implement quantum state discrimination protocols—specifically minimum-error discrimination (Helstrom bound) and generalized discrimination methods using POVM/Naimark dilation.
+This repository collects code notebooks and tools to study and implement quantum state discrimination protocols—specifically minimum-error discrimination (Helstrom bound) and unambiguous discrimination methods using POVM/Naimark dilation.
 
 ## Motivation  
 Quantum state discrimination is a core problem in quantum information theory: given a quantum system prepared in one of several non-orthogonal states, how accurately can we distinguish which state was prepared? This has deep applications in quantum communication and quantum cryptography.
