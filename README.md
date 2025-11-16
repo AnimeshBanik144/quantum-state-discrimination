@@ -13,7 +13,7 @@ In particular, my interest lies in extending the standard models (like the Helst
 
 ## Related Work  
 For further exploration of generalized state discrimination applied to quantum key distribution (QKD), see my other repository:  
-[The-phiQKD-Protocol](https://github.com/AnimeshBanik144/The-phiQKD-Protocol)
+[the-phiQKD-protocol-codes]((https://github.com/AnimeshBanik144/the-phiQKD-protocol-codes))
 
 
 ## What’s Inside  
